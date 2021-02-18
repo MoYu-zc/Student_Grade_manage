@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1541843901 source:f:\c语言\项目\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542371494 source:g:\项目\main.c
+	<stdio.h>
+	<process.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1542629650 source:f:\项目\main.c
+	<stdio.h>
+	<process.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1545742376 source:g:\实训\项目\main.c
+	<stdio.h>
+	<process.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1545742376 source:d:\c语言项目\项目\main.c
+	<stdio.h>
+	<process.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
